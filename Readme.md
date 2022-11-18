@@ -8,9 +8,9 @@ This challenge is to demonstrate the ability to
 
 ## Analysis and Challenges
 
-### Analysis of Outcomes Based on Launch Date
+### Analysis of 
 
-### Analysis of Outcomes Based on Goals
+### Analysis of 
 
 ### Challenges and Difficulties Encountered
 
