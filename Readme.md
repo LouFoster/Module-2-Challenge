@@ -31,14 +31,21 @@ In addition, this project’s purpose is to compare the original VBA script to t
 As the assigned Data Analyst, I will use my knowledge of VBA and the starter code provided in this Challenge to refactor the Module2_VBA_Script to loop through the data once and collect all the information. In addition, the goal is that the refactored code should run faster than it did in this module.
 
 #Sub AllStocksAnalysisRefactored() for 2017
+![image](https://user-images.githubusercontent.com/117233641/226089814-8a2bf9f9-9fce-404d-828a-798c04b79920.png)
  
 Sub AllStocksAnalysisRefactored() for 2018
+![image](https://user-images.githubusercontent.com/117233641/226089832-04c37c63-34d4-48aa-9290-fd51f4f80c35.png)
  
  
 VBA Code for Sub AllStocksAnalysisRefactored()as per Challenge instructions
+ ![image](https://user-images.githubusercontent.com/117233641/226089856-5fba5322-d0c8-477b-a198-beeddeecdb75.png)
+
+![image](https://user-images.githubusercontent.com/117233641/226089867-4e046846-7845-4a91-9b17-945f7ba387d4.png)
+
+![image](https://user-images.githubusercontent.com/117233641/226089877-aec70e28-e332-4725-a412-7dfb0e97bf1a.png)
  
- 
- 
+ ![image](https://user-images.githubusercontent.com/117233641/226089891-f05a9989-e759-43b7-9be4-8c5ace0bdea7.png)
+
  
 
 
@@ -55,9 +62,11 @@ Running our 2017 and 2018 data stock analysis results in seeing an elapsed run t
 •	Further analysis shows that five stocks had a decreased total daily volume in 2018, whereas the remaining 7 had an increased total daily volume in 2018.
 
 #Sub AllStocksAnalysisRefactored() for 2017
+![image](https://user-images.githubusercontent.com/117233641/226089904-8b3e5e6e-d7a1-4002-b468-27e01021a364.png)
  
 Sub AllStocksAnalysisRefactored() for 2018
- 
+ ![image](https://user-images.githubusercontent.com/117233641/226089910-a04c6d18-a5bb-4c0c-9583-4d3ecad285c5.png)
+
 
 
 ##Summary: In a summary statement, address the following questions.
